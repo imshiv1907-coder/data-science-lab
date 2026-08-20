@@ -25,6 +25,4 @@ The following tools and libraries are used in this lab:
 - **Scikit-learn** – Machine learning and data analysis
 
 ## Thank You
-├── datasets/
-│   └── sample-datasets.csv
-└── requirements.txt
+
