@@ -1,12 +1,30 @@
-# Titanic Dataset - Exploratory Data Analysis (EDA)
+# 📊 Data Science and Visualization Lab
 
-## Overview
-This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python and the Pandas library. The notebook explores the dataset's structure, summarizes key statistics, and identifies missing values to better understand the data before preprocessing or building machine learning models.
+Welcome to the **Data Science and Visualization Lab** repository. This lab contains practical experiments, programs, datasets, and visualization techniques used to understand and analyze data using Python.
 
-## Features
-- Load the Titanic dataset from a CSV file
-- Display the first few rows of the dataset
-- Inspect dataset information and data types
-- Generate summary statistics for numerical features
-- Identify missing values in each column
-- Understand the dataset structure for further analysis
+## 🎯 Objectives
+
+- Understand the fundamentals of Data Science.
+- Learn data preprocessing and cleaning techniques.
+- Perform exploratory data analysis (EDA).
+- Work with datasets using Python.
+- Create meaningful data visualizations.
+- Analyze and interpret data using statistical methods.
+- Learn popular Python libraries used in Data Science.
+
+## 🛠️ Technologies & Libraries
+
+The following tools and libraries are used in this lab:
+
+- **Python**
+- **Jupyter Notebook**
+- **NumPy** – Numerical computations
+- **Pandas** – Data manipulation and analysis
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical visualization
+- **Scikit-learn** – Machine learning and data analysis
+
+## Thank You
+├── datasets/
+│   └── sample-datasets.csv
+└── requirements.txt
